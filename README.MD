@@ -9,4 +9,6 @@ SFDE_USERNAME
 SFDE_PASSWORD
 ```
 
+See our [documentation here](https://docs.cloudera.com/machine-learning/cloud/projects/topics/ml-modifying-project-settings.html) for details.
+
 
